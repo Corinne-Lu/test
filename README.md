@@ -13,7 +13,10 @@ Phosphor BMC Code Management 提供一組系統軟體管理應用程式。更多
 2. `ninja -C build`
 
 要清理此版本庫請執行 `rm -r build`。
-，# 軟體版本管理與映像更新
+
+***
+
+# 軟體版本管理與映像更新
 
 ## 概述
 
